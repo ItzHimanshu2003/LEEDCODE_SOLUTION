@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

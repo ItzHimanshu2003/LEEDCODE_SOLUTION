@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0009-palindrome-number) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->

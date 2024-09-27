@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

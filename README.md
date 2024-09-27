@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0792-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0908-middle-of-the-linked-list) |

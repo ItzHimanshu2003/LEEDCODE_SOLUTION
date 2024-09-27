@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0792-binary-search) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0908-middle-of-the-linked-list) |
 ## String

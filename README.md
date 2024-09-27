@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/ItzHimanshu2003/LEEDCODE_SOLUTION/tree/master/0344-reverse-string) |
 ## Linked List
 |  |

@@ -1,14 +1,20 @@
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[j] == target - nums[i]) {
-                    return new int[] { i, j };
-                }
-            }
+        HashMap<Integer,Integer> map = new HashMap();
+        //fill HM
+        for(int i=0; i<nums.length;i++){
+            map.put(nums[i],i);
         }
-        // If no valid pair is found, return an empty array instead of null
-        return new int[] {};
+        //searching
+       for(int i=0; i<nums.length;i++){
+          int num = nums[i];
+          int rem = target - num;
+          if(map.containsKey(rem)){
+            int index = map.get(rem);
+            if(index == i)continue;
+            return new int[]{i,index};
+          }
+        }
+        return new int[]{};
     }
 }
